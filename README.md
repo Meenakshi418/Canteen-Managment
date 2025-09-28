@@ -10,7 +10,7 @@ It was built as part of an academic project.
 - Order handling  
 - Admin-only controls  
 - File handling for persistent data  
-- Uses ArrayList, HashMap, BST, and Sorting  
+- Uses LinkedList, BST, and Queue  
 
 ---
 
