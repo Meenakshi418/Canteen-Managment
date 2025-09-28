@@ -1,0 +1,7 @@
+101,Pizza,150.0
+102,Pasta,140.0
+103,Rajma Rice,180.0
+104,Tea,20.0
+105,Samosa,30.0
+106,Sandwich,90.0
+107,Cream Puff,60.0

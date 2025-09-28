@@ -1,0 +1,15 @@
+101,Samosa,30.0
+103,Sandwich,70.0
+
+--- Customer Order ---
+102,Tea,15.0
+
+--- Customer Order ---
+102,Tea,15.0
+102,Tea,15.0
+
+--- Customer Order ---
+102,Tea,15.0
+
+--- Customer Order ---
+105,Samosa,30.0
